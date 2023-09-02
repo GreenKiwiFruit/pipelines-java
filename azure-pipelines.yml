@@ -1,8 +1,7 @@
 trigger:
 - main
 
-pool:
- default
+pool: Default
 
 jobs:
 - job: BuildAndTest
