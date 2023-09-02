@@ -2,7 +2,7 @@ trigger:
 - main
 
 pool:
-  vmImage: mason_vospette_SH
+  vmImage: Default
 
 jobs:
 - job: BuildAndTest
